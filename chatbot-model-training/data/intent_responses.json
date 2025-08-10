@@ -1,0 +1,302 @@
+[
+  {
+    "intent": "greeting",
+    "queries": [
+      "hello",
+      "hi",
+      "hey there",
+      "good morning",
+      "good afternoon",
+      "howdy",
+      "greetings",
+      "what's up",
+      "hello there",
+      "hi there"
+    ],
+    "responses": [
+      "Hello! How can I help you today?",
+      "Hi there! What can I do for you?",
+      "Greetings! How may I assist you?"
+    ]
+  },
+  {
+    "intent": "farewell",
+    "queries": [
+      "goodbye",
+      "bye",
+      "see you later",
+      "have a good day",
+      "bye bye",
+      "farewell",
+      "take care",
+      "until next time",
+      "see ya",
+      "cya"
+    ],
+    "responses": [
+      "Goodbye! Have a great day!",
+      "Bye! Feel free to come back if you have more questions.",
+      "See you later! Take care!"
+    ]
+  },
+  {
+    "intent": "thanks",
+    "queries": [
+      "thank you",
+      "thanks",
+      "appreciate it",
+      "thanks a lot",
+      "thank you so much",
+      "thanks for your help",
+      "thank you for the assistance",
+      "much appreciated",
+      "that was helpful, thanks",
+      "great, thank you"
+    ],
+    "responses": [
+      "You're welcome!",
+      "Happy to help!",
+      "Anytime! Is there anything else you need?"
+    ]
+  },
+  {
+    "intent": "app_development",
+    "queries": [
+      "can you create a mobile app",
+      "I need an app developed",
+      "how much for app development",
+      "do you make iOS apps",
+      "can you build an Android application",
+      "looking for app developer",
+      "need someone to code an app",
+      "mobile application development",
+      "create an app for my business",
+      "app for my startup"
+    ],
+    "responses": [
+      "Yes, we specialize in mobile app development for both iOS and Android platforms.",
+      "We can definitely help with your app development needs. Our team has expertise in React Native and native development.",
+      "Our mobile app development services include UI/UX design, development, testing, and deployment."
+    ]
+  },
+  {
+    "intent": "web_development",
+    "queries": [
+      "I need a website",
+      "can you build a web application",
+      "looking for web developer",
+      "ecommerce website development",
+      "how much for a website",
+      "create website for my company",
+      "web app development",
+      "responsive website creation",
+      "need help with my website",
+      "build me a web portal"
+    ],
+    "responses": [
+      "We offer comprehensive web development services from simple websites to complex applications.",
+      "Our web development team can create responsive, modern websites tailored to your needs.",
+      "We specialize in creating custom web solutions using the latest technologies like React, Angular, and Node.js."
+    ]
+  },
+  {
+    "intent": "pricing",
+    "queries": [
+      "how much does it cost",
+      "what are your rates",
+      "pricing information",
+      "how much do you charge",
+      "send me a quote",
+      "pricing details",
+      "what's your hourly rate",
+      "project cost estimation",
+      "pricing for app development",
+      "how much for a website"
+    ],
+    "responses": [
+      "Our pricing depends on the project requirements. We'd be happy to provide a detailed quote after understanding your needs.",
+      "We offer competitive rates based on project complexity and timeline. Let's discuss your specific requirements for an accurate quote.",
+      "We can provide a customized quote based on your project scope. Would you like to schedule a consultation?"
+    ]
+  },
+  {
+    "intent": "contact",
+    "queries": [
+      "how can I contact you",
+      "what's your phone number",
+      "contact information",
+      "email address",
+      "where are you located",
+      "contact details",
+      "how to reach you",
+      "office address",
+      "can I call you",
+      "contact support"
+    ],
+    "responses": [
+      "You can reach us at contact@example.com or call us at (555) 123-4567.",
+      "Our support team is available via email at support@example.com or by phone at (555) 123-4567.",
+      "Feel free to contact us through our website contact form or email us directly at info@example.com."
+    ]
+  },
+  {
+    "intent": "schedule_meeting",
+    "queries": [
+      "let's schedule a meeting",
+      "can we have a call",
+      "book an appointment",
+      "schedule a consultation",
+      "when can we meet",
+      "set up a demo",
+      "arrange a meeting",
+      "consultation booking",
+      "available for a meeting",
+      "schedule a call"
+    ],
+    "responses": [
+      "I'd be happy to schedule a meeting. What day and time works best for you?",
+      "We can definitely arrange a call. Please let me know your availability in the coming week.",
+      "I can set up a consultation with our team. Would you prefer a video call or phone call?"
+    ]
+  },
+  {
+    "intent": "homepage_info",
+    "queries": [
+      "what is on your homepage",
+      "what can I find on your home page",
+      "tell me about your homepage",
+      "what is the homepage about",
+      "home page information",
+      "main page details",
+      "what do you show on your homepage",
+      "describe your homepage",
+      "what is your main page like",
+      "homepage features"
+    ],
+    "responses": [
+      "Our homepage gives you an overview of InnovationHub \u2014 including our mission, key services, featured projects, and quick links to other sections.",
+      "On the homepage, you\u2019ll find highlights of our services, recent projects, and a way to quickly navigate to the Hire Us, Member, Project, and About Hub pages.",
+      "The homepage is your starting point to explore our services, projects, and membership opportunities."
+    ]
+  },
+  {
+    "intent": "hireus_info",
+    "queries": [
+      "how can I hire you",
+      "where is the hire us page",
+      "how to hire your team",
+      "I want to work with InnovationHub",
+      "hire us details",
+      "process for hiring your team",
+      "I want to hire you for a project",
+      "how do I start a project with you",
+      "how to work with your developers",
+      "hire your developers"
+    ],
+    "responses": [
+      "You can hire us through the 'Hire Us' page, where you\u2019ll find our services, pricing, and a contact form to start your project.",
+      "To work with us, visit our 'Hire Us' page, fill out the project details, and we\u2019ll get in touch for a consultation.",
+      "Our 'Hire Us' page is designed for quick project requests \u2014 just submit your requirements and we\u2019ll follow up."
+    ]
+  },
+  {
+    "intent": "member_application",
+    "queries": [
+      "how can I become a member",
+      "where do I apply for membership",
+      "how to join InnovationHub",
+      "member application process",
+      "how to sign up as a member",
+      "do you have a member registration form",
+      "apply for membership",
+      "how to get accepted as a member",
+      "membership sign up",
+      "do I need to upload documents for membership"
+    ],
+    "responses": [
+      "To become a member, visit the 'Member' page and complete the signup form with your details and required attachments.",
+      "Membership requires filling out the online application form and uploading any required documents directly through our website.",
+      "You can join by signing up on the 'Member' page, completing the application process, and attaching your required files."
+    ]
+  },
+  {
+    "intent": "project_page_info",
+    "queries": [
+      "what is on the project page",
+      "what projects do you have",
+      "show me your projects",
+      "list of your projects",
+      "project page details",
+      "examples of your work on projects page",
+      "what kind of projects do you showcase",
+      "project gallery",
+      "your recent projects",
+      "completed project list"
+    ],
+    "responses": [
+      "Our 'Project' page displays ongoing and completed projects from our members and clients.",
+      "You can explore our past and current work on the 'Project' page \u2014 it includes descriptions, images, and key details.",
+      "The 'Project' page is a showcase of what we\u2019ve built and achieved, updated regularly."
+    ]
+  },
+  {
+    "intent": "about_hub_info",
+    "queries": [
+      "what is the about hub page",
+      "tell me about InnovationHub",
+      "what do you do at InnovationHub",
+      "about your company",
+      "what is your mission",
+      "about hub details",
+      "who are you",
+      "describe InnovationHub",
+      "about InnovationHub page",
+      "overview of your hub"
+    ],
+    "responses": [
+      "The 'About Hub' page explains who we are, our mission, values, and the services we offer.",
+      "On the 'About Hub' page, you can learn about our background, vision, and what drives our work.",
+      "The 'About Hub' section gives you insight into our goals, team, and the impact we aim to create."
+    ]
+  },
+  {
+    "intent": "blog_services_info",
+    "queries": [
+      "what services do you offer",
+      "do you have a blog about your services",
+      "list of services",
+      "tell me about your services",
+      "services blog page",
+      "services information",
+      "what can you do for me",
+      "what do you offer clients",
+      "describe your service offerings",
+      "do you post about your services"
+    ],
+    "responses": [
+      "We share details about our services in blog format under the 'About Hub' section \u2014 covering web development, app development, training, and more.",
+      "Our services are explained through blogs on the 'About Hub' page, so you can explore them in detail.",
+      "You\u2019ll find all our service offerings described in our blog section under 'About Hub'."
+    ]
+  },
+  {
+    "intent": "membership_benefits",
+    "queries": [
+      "why should I become a member",
+      "benefits of membership",
+      "advantages of joining InnovationHub",
+      "what do members get",
+      "membership perks",
+      "what can I gain from being a member",
+      "why join",
+      "is it worth joining as a member",
+      "what do you offer members",
+      "benefits of being part of InnovationHub"
+    ],
+    "responses": [
+      "Members get access to networking opportunities, exclusive projects, skill development resources, and priority hiring for client work.",
+      "Joining InnovationHub connects you with industry professionals, gives you access to resources, and opens up collaboration opportunities.",
+      "Membership offers learning, exposure to real projects, and the chance to grow your portfolio."
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+,precision,recall,f1-score,support
+about_hub_info,1.0,0.5,0.6666666666666666,2.0
+app_development,0.0,0.0,0.0,3.0
+blog_services_info,0.5,0.5,0.5,2.0
+contact,0.0,0.0,0.0,3.0
+farewell,0.0,0.0,0.0,3.0
+greeting,0.08333333333333333,1.0,0.15384615384615385,1.0
+hireus_info,0.0,0.0,0.0,0.0
+homepage_info,0.25,1.0,0.4,1.0
+member_application,0.0,0.0,0.0,2.0
+membership_benefits,0.0,0.0,0.0,3.0
+pricing,0.0,0.0,0.0,2.0
+project_page_info,0.0,0.0,0.0,2.0
+schedule_meeting,0.0,0.0,0.0,3.0
+thanks,0.0,0.0,0.0,2.0
+web_development,0.0,0.0,0.0,1.0
+accuracy,0.13333333333333333,0.13333333333333333,0.13333333333333333,0.13333333333333333
+macro avg,0.12222222222222222,0.2,0.1147008547008547,30.0
+weighted avg,0.11111111111111112,0.13333333333333333,0.09623931623931622,30.0

@@ -1,0 +1,23 @@
+{
+  "max_words": 1000,
+  "max_len": 20,
+  "embedding_dim": 16,
+  "num_intents": 15,
+  "intents": [
+    "about_hub_info",
+    "app_development",
+    "blog_services_info",
+    "contact",
+    "farewell",
+    "greeting",
+    "hireus_info",
+    "homepage_info",
+    "member_application",
+    "membership_benefits",
+    "pricing",
+    "project_page_info",
+    "schedule_meeting",
+    "thanks",
+    "web_development"
+  ]
+}

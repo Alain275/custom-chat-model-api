@@ -1,0 +1,151 @@
+intent,query,response
+greeting,hello,Hello! How can I help you today?
+greeting,hi,Hello! How can I help you today?
+greeting,hey there,Hello! How can I help you today?
+greeting,good morning,Hello! How can I help you today?
+greeting,good afternoon,Hello! How can I help you today?
+greeting,howdy,Hello! How can I help you today?
+greeting,greetings,Hello! How can I help you today?
+greeting,what's up,Hello! How can I help you today?
+greeting,hello there,Hello! How can I help you today?
+greeting,hi there,Hello! How can I help you today?
+farewell,goodbye,Goodbye! Have a great day!
+farewell,bye,Goodbye! Have a great day!
+farewell,see you later,Goodbye! Have a great day!
+farewell,have a good day,Goodbye! Have a great day!
+farewell,bye bye,Goodbye! Have a great day!
+farewell,farewell,Goodbye! Have a great day!
+farewell,take care,Goodbye! Have a great day!
+farewell,until next time,Goodbye! Have a great day!
+farewell,see ya,Goodbye! Have a great day!
+farewell,cya,Goodbye! Have a great day!
+thanks,thank you,You're welcome!
+thanks,thanks,You're welcome!
+thanks,appreciate it,You're welcome!
+thanks,thanks a lot,You're welcome!
+thanks,thank you so much,You're welcome!
+thanks,thanks for your help,You're welcome!
+thanks,thank you for the assistance,You're welcome!
+thanks,much appreciated,You're welcome!
+thanks,"that was helpful, thanks",You're welcome!
+thanks,"great, thank you",You're welcome!
+app_development,can you create a mobile app,"Yes, we specialize in mobile app development for both iOS and Android platforms."
+app_development,I need an app developed,"Yes, we specialize in mobile app development for both iOS and Android platforms."
+app_development,how much for app development,"Yes, we specialize in mobile app development for both iOS and Android platforms."
+app_development,do you make iOS apps,"Yes, we specialize in mobile app development for both iOS and Android platforms."
+app_development,can you build an Android application,"Yes, we specialize in mobile app development for both iOS and Android platforms."
+app_development,looking for app developer,"Yes, we specialize in mobile app development for both iOS and Android platforms."
+app_development,need someone to code an app,"Yes, we specialize in mobile app development for both iOS and Android platforms."
+app_development,mobile application development,"Yes, we specialize in mobile app development for both iOS and Android platforms."
+app_development,create an app for my business,"Yes, we specialize in mobile app development for both iOS and Android platforms."
+app_development,app for my startup,"Yes, we specialize in mobile app development for both iOS and Android platforms."
+web_development,I need a website,We offer comprehensive web development services from simple websites to complex applications.
+web_development,can you build a web application,We offer comprehensive web development services from simple websites to complex applications.
+web_development,looking for web developer,We offer comprehensive web development services from simple websites to complex applications.
+web_development,ecommerce website development,We offer comprehensive web development services from simple websites to complex applications.
+web_development,how much for a website,We offer comprehensive web development services from simple websites to complex applications.
+web_development,create website for my company,We offer comprehensive web development services from simple websites to complex applications.
+web_development,web app development,We offer comprehensive web development services from simple websites to complex applications.
+web_development,responsive website creation,We offer comprehensive web development services from simple websites to complex applications.
+web_development,need help with my website,We offer comprehensive web development services from simple websites to complex applications.
+web_development,build me a web portal,We offer comprehensive web development services from simple websites to complex applications.
+pricing,how much does it cost,Our pricing depends on the project requirements. We'd be happy to provide a detailed quote after understanding your needs.
+pricing,what are your rates,Our pricing depends on the project requirements. We'd be happy to provide a detailed quote after understanding your needs.
+pricing,pricing information,Our pricing depends on the project requirements. We'd be happy to provide a detailed quote after understanding your needs.
+pricing,how much do you charge,Our pricing depends on the project requirements. We'd be happy to provide a detailed quote after understanding your needs.
+pricing,send me a quote,Our pricing depends on the project requirements. We'd be happy to provide a detailed quote after understanding your needs.
+pricing,pricing details,Our pricing depends on the project requirements. We'd be happy to provide a detailed quote after understanding your needs.
+pricing,what's your hourly rate,Our pricing depends on the project requirements. We'd be happy to provide a detailed quote after understanding your needs.
+pricing,project cost estimation,Our pricing depends on the project requirements. We'd be happy to provide a detailed quote after understanding your needs.
+pricing,pricing for app development,Our pricing depends on the project requirements. We'd be happy to provide a detailed quote after understanding your needs.
+pricing,how much for a website,Our pricing depends on the project requirements. We'd be happy to provide a detailed quote after understanding your needs.
+contact,how can I contact you,You can reach us at contact@example.com or call us at (555) 123-4567.
+contact,what's your phone number,You can reach us at contact@example.com or call us at (555) 123-4567.
+contact,contact information,You can reach us at contact@example.com or call us at (555) 123-4567.
+contact,email address,You can reach us at contact@example.com or call us at (555) 123-4567.
+contact,where are you located,You can reach us at contact@example.com or call us at (555) 123-4567.
+contact,contact details,You can reach us at contact@example.com or call us at (555) 123-4567.
+contact,how to reach you,You can reach us at contact@example.com or call us at (555) 123-4567.
+contact,office address,You can reach us at contact@example.com or call us at (555) 123-4567.
+contact,can I call you,You can reach us at contact@example.com or call us at (555) 123-4567.
+contact,contact support,You can reach us at contact@example.com or call us at (555) 123-4567.
+schedule_meeting,let's schedule a meeting,I'd be happy to schedule a meeting. What day and time works best for you?
+schedule_meeting,can we have a call,I'd be happy to schedule a meeting. What day and time works best for you?
+schedule_meeting,book an appointment,I'd be happy to schedule a meeting. What day and time works best for you?
+schedule_meeting,schedule a consultation,I'd be happy to schedule a meeting. What day and time works best for you?
+schedule_meeting,when can we meet,I'd be happy to schedule a meeting. What day and time works best for you?
+schedule_meeting,set up a demo,I'd be happy to schedule a meeting. What day and time works best for you?
+schedule_meeting,arrange a meeting,I'd be happy to schedule a meeting. What day and time works best for you?
+schedule_meeting,consultation booking,I'd be happy to schedule a meeting. What day and time works best for you?
+schedule_meeting,available for a meeting,I'd be happy to schedule a meeting. What day and time works best for you?
+schedule_meeting,schedule a call,I'd be happy to schedule a meeting. What day and time works best for you?
+homepage_info,what is on your homepage,"Our homepage gives you an overview of InnovationHub — including our mission, key services, featured projects, and quick links to other sections."
+homepage_info,what can I find on your home page,"Our homepage gives you an overview of InnovationHub — including our mission, key services, featured projects, and quick links to other sections."
+homepage_info,tell me about your homepage,"Our homepage gives you an overview of InnovationHub — including our mission, key services, featured projects, and quick links to other sections."
+homepage_info,what is the homepage about,"Our homepage gives you an overview of InnovationHub — including our mission, key services, featured projects, and quick links to other sections."
+homepage_info,home page information,"Our homepage gives you an overview of InnovationHub — including our mission, key services, featured projects, and quick links to other sections."
+homepage_info,main page details,"Our homepage gives you an overview of InnovationHub — including our mission, key services, featured projects, and quick links to other sections."
+homepage_info,what do you show on your homepage,"Our homepage gives you an overview of InnovationHub — including our mission, key services, featured projects, and quick links to other sections."
+homepage_info,describe your homepage,"Our homepage gives you an overview of InnovationHub — including our mission, key services, featured projects, and quick links to other sections."
+homepage_info,what is your main page like,"Our homepage gives you an overview of InnovationHub — including our mission, key services, featured projects, and quick links to other sections."
+homepage_info,homepage features,"Our homepage gives you an overview of InnovationHub — including our mission, key services, featured projects, and quick links to other sections."
+hireus_info,how can I hire you,"You can hire us through the 'Hire Us' page, where you’ll find our services, pricing, and a contact form to start your project."
+hireus_info,where is the hire us page,"You can hire us through the 'Hire Us' page, where you’ll find our services, pricing, and a contact form to start your project."
+hireus_info,how to hire your team,"You can hire us through the 'Hire Us' page, where you’ll find our services, pricing, and a contact form to start your project."
+hireus_info,I want to work with InnovationHub,"You can hire us through the 'Hire Us' page, where you’ll find our services, pricing, and a contact form to start your project."
+hireus_info,hire us details,"You can hire us through the 'Hire Us' page, where you’ll find our services, pricing, and a contact form to start your project."
+hireus_info,process for hiring your team,"You can hire us through the 'Hire Us' page, where you’ll find our services, pricing, and a contact form to start your project."
+hireus_info,I want to hire you for a project,"You can hire us through the 'Hire Us' page, where you’ll find our services, pricing, and a contact form to start your project."
+hireus_info,how do I start a project with you,"You can hire us through the 'Hire Us' page, where you’ll find our services, pricing, and a contact form to start your project."
+hireus_info,how to work with your developers,"You can hire us through the 'Hire Us' page, where you’ll find our services, pricing, and a contact form to start your project."
+hireus_info,hire your developers,"You can hire us through the 'Hire Us' page, where you’ll find our services, pricing, and a contact form to start your project."
+member_application,how can I become a member,"To become a member, visit the 'Member' page and complete the signup form with your details and required attachments."
+member_application,where do I apply for membership,"To become a member, visit the 'Member' page and complete the signup form with your details and required attachments."
+member_application,how to join InnovationHub,"To become a member, visit the 'Member' page and complete the signup form with your details and required attachments."
+member_application,member application process,"To become a member, visit the 'Member' page and complete the signup form with your details and required attachments."
+member_application,how to sign up as a member,"To become a member, visit the 'Member' page and complete the signup form with your details and required attachments."
+member_application,do you have a member registration form,"To become a member, visit the 'Member' page and complete the signup form with your details and required attachments."
+member_application,apply for membership,"To become a member, visit the 'Member' page and complete the signup form with your details and required attachments."
+member_application,how to get accepted as a member,"To become a member, visit the 'Member' page and complete the signup form with your details and required attachments."
+member_application,membership sign up,"To become a member, visit the 'Member' page and complete the signup form with your details and required attachments."
+member_application,do I need to upload documents for membership,"To become a member, visit the 'Member' page and complete the signup form with your details and required attachments."
+project_page_info,what is on the project page,Our 'Project' page displays ongoing and completed projects from our members and clients.
+project_page_info,what projects do you have,Our 'Project' page displays ongoing and completed projects from our members and clients.
+project_page_info,show me your projects,Our 'Project' page displays ongoing and completed projects from our members and clients.
+project_page_info,list of your projects,Our 'Project' page displays ongoing and completed projects from our members and clients.
+project_page_info,project page details,Our 'Project' page displays ongoing and completed projects from our members and clients.
+project_page_info,examples of your work on projects page,Our 'Project' page displays ongoing and completed projects from our members and clients.
+project_page_info,what kind of projects do you showcase,Our 'Project' page displays ongoing and completed projects from our members and clients.
+project_page_info,project gallery,Our 'Project' page displays ongoing and completed projects from our members and clients.
+project_page_info,your recent projects,Our 'Project' page displays ongoing and completed projects from our members and clients.
+project_page_info,completed project list,Our 'Project' page displays ongoing and completed projects from our members and clients.
+about_hub_info,what is the about hub page,"The 'About Hub' page explains who we are, our mission, values, and the services we offer."
+about_hub_info,tell me about InnovationHub,"The 'About Hub' page explains who we are, our mission, values, and the services we offer."
+about_hub_info,what do you do at InnovationHub,"The 'About Hub' page explains who we are, our mission, values, and the services we offer."
+about_hub_info,about your company,"The 'About Hub' page explains who we are, our mission, values, and the services we offer."
+about_hub_info,what is your mission,"The 'About Hub' page explains who we are, our mission, values, and the services we offer."
+about_hub_info,about hub details,"The 'About Hub' page explains who we are, our mission, values, and the services we offer."
+about_hub_info,who are you,"The 'About Hub' page explains who we are, our mission, values, and the services we offer."
+about_hub_info,describe InnovationHub,"The 'About Hub' page explains who we are, our mission, values, and the services we offer."
+about_hub_info,about InnovationHub page,"The 'About Hub' page explains who we are, our mission, values, and the services we offer."
+about_hub_info,overview of your hub,"The 'About Hub' page explains who we are, our mission, values, and the services we offer."
+blog_services_info,what services do you offer,"We share details about our services in blog format under the 'About Hub' section — covering web development, app development, training, and more."
+blog_services_info,do you have a blog about your services,"We share details about our services in blog format under the 'About Hub' section — covering web development, app development, training, and more."
+blog_services_info,list of services,"We share details about our services in blog format under the 'About Hub' section — covering web development, app development, training, and more."
+blog_services_info,tell me about your services,"We share details about our services in blog format under the 'About Hub' section — covering web development, app development, training, and more."
+blog_services_info,services blog page,"We share details about our services in blog format under the 'About Hub' section — covering web development, app development, training, and more."
+blog_services_info,services information,"We share details about our services in blog format under the 'About Hub' section — covering web development, app development, training, and more."
+blog_services_info,what can you do for me,"We share details about our services in blog format under the 'About Hub' section — covering web development, app development, training, and more."
+blog_services_info,what do you offer clients,"We share details about our services in blog format under the 'About Hub' section — covering web development, app development, training, and more."
+blog_services_info,describe your service offerings,"We share details about our services in blog format under the 'About Hub' section — covering web development, app development, training, and more."
+blog_services_info,do you post about your services,"We share details about our services in blog format under the 'About Hub' section — covering web development, app development, training, and more."
+membership_benefits,why should I become a member,"Members get access to networking opportunities, exclusive projects, skill development resources, and priority hiring for client work."
+membership_benefits,benefits of membership,"Members get access to networking opportunities, exclusive projects, skill development resources, and priority hiring for client work."
+membership_benefits,advantages of joining InnovationHub,"Members get access to networking opportunities, exclusive projects, skill development resources, and priority hiring for client work."
+membership_benefits,what do members get,"Members get access to networking opportunities, exclusive projects, skill development resources, and priority hiring for client work."
+membership_benefits,membership perks,"Members get access to networking opportunities, exclusive projects, skill development resources, and priority hiring for client work."
+membership_benefits,what can I gain from being a member,"Members get access to networking opportunities, exclusive projects, skill development resources, and priority hiring for client work."
+membership_benefits,why join,"Members get access to networking opportunities, exclusive projects, skill development resources, and priority hiring for client work."
+membership_benefits,is it worth joining as a member,"Members get access to networking opportunities, exclusive projects, skill development resources, and priority hiring for client work."
+membership_benefits,what do you offer members,"Members get access to networking opportunities, exclusive projects, skill development resources, and priority hiring for client work."
+membership_benefits,benefits of being part of InnovationHub,"Members get access to networking opportunities, exclusive projects, skill development resources, and priority hiring for client work."
