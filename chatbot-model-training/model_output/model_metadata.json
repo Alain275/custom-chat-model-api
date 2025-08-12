@@ -1,7 +1,7 @@
 {
-  "max_words": 1000,
-  "max_len": 20,
-  "embedding_dim": 16,
+  "model_type": "sklearn_pipeline",
+  "vectorizer": "tfidf",
+  "classifier": "linear_svc",
   "num_intents": 15,
   "intents": [
     "about_hub_info",
